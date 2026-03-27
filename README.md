@@ -1,4 +1,4 @@
-# 🚀 Prakash Mandal - Modern Portfolio Website
+# 🚀 Prakash Mondal - Modern Portfolio Website
 
 A high-end, responsive portfolio application engineered with **React (Vite)** for a lightning-fast frontend experience and a **PHP** micro-service for secure contact management.
 
