@@ -12,7 +12,7 @@ const Contact = () => {
 
     try {
       // Replace with your actual PHP backend URL
-      const response = await fetch('http://localhost/contact.php', {
+      const response = await fetch('https://prakash-mondal.page.gd/contact.php', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
